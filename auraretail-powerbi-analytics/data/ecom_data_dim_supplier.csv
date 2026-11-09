@@ -1,0 +1,6 @@
+SupplierID,SupplierName,ContactName,Country,LeadTimeDays,SupplierRating,ContactEmail
+101,Apex Tech Supplies,David Vance,USA,5,4.8,
+102,Sylvan Home Goods,Elena Rostova,Canada,12,4.2,
+103,Vanguard Gear Co,Marcus Thorne,USA,7,4.5,mthorne@vanguard.com
+104,Nova Electronics,Kenji Sato,Japan,21,3.9,
+105,Aura Wearables,Sophie Laurent,France,15,4.6,

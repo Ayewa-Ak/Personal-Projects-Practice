@@ -1,0 +1,11 @@
+GeographyID,City,State,Region,Country,PostalCode
+1,Chicago,Illinois,Midwest,USA,60601
+2,New York,New York,Northeast,USA,10001
+3,Los Angeles,California,West,USA,90001
+4,Houston,Texas,South,USA,77001
+5,Phoenix,Arizona,West,USA,85001
+6,Philadelphia,Pennsylvania,Northeast,USA,19101
+7,Atlanta,Georgia,South,USA,30301
+8,Seattle,Washington,West,USA,98101
+9,Denver,Colorado,West,USA,80201
+10,Miami,florida,South,USA,33101

@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,SubCategory,SupplierID,UnitCost,UnitPrice
+1,ProNoise Wireless Headphones,Electronics,Audio,101,85.0,199.99
+2,UltraSlim Bluetooth Speaker,Electronics,Audio,101,35.0,79.99
+3,4K Ultra Monitor 27in,Electronics,Displays,104,210.0,399.99
+4,Ergonomic Mechanical Keyboard,Electronics,Accessories,101,45.0,119.99
+5,Precision Wireless Mouse,Electronics,Accessories,101,20.0,49.99
+6,Smart Fitness Watch V2,Electronics,Wearables,105,90.0,229.99
+7,Aroma Diffuser & Humidifier,home & living,Decor,102,15.0,39.99
+8,Memory Foam Pillow Set,Home & Living,Bedding,102,25.0,64.99
+9,Stainless Steel Electric Kettle,Home & Living,Kitchen,102,22.0,49.99
+10,Minimalist Desk Lamp LED,Home & Living,Lighting,102,18.0,42.99
+11,Robotic Vacuum Cleaner C300,Home & Living,Appliances,104,160.0,349.99
+12,All-Weather Backpack 30L,APPAREL & GEAR,Bags,103,38.0,89.99
+13,Thermal Running Jacket,Apparel & Gear,Apparel,103,30.0,74.99
+14,Insulated Stainless Bottle 1L,Apparel & Gear,Accessories,103,8.0,24.99
+15,Trail Pro Hiking Boots,Apparel & Gear,Footwear,103,55.0,139.99

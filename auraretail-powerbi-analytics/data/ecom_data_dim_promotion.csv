@@ -1,0 +1,12 @@
+PromotionID,PromoName,DiscountPct,StartDate,EndDate
+1,No Discount / Regular,0.0,2023-01-01,2025-12-31
+2,Spring Renewal Sale,0.1,2023-03-15,2023-03-31
+3,Summer Splash Deals,0.15,2023-07-01,2023-07-15
+4,Black Friday Cyber Week,0.25,2023-11-20,2023-11-30
+5,Holiday Madness,0.2,2023-12-15,2023-12-31
+6,Spring Renewal Sale '24,0.1,2024-03-15,2024-03-31
+7,Summer Splash Deals '24,0.15,2024-07-01,2024-07-15
+8,Black Friday Cyber Week '24,0.25,2024-11-20,2024-11-30
+9,Holiday Madness '24,0.2,2024-12-15,2024-12-31
+10,Spring Renewal Sale '25,0.12,2025-03-15,2025-03-31
+11,Black Friday Cyber Week '25,0.3,2025-11-20,2025-11-30
