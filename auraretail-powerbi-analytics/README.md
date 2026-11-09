@@ -167,15 +167,15 @@ It includes:
 
 The dashboard is designed to help management monitor business performance and explore results across different business dimensions.
 
-### AuraRetail_Executive_Dashboard_ Exploratory Analysis.png
+### Dashboard Screenshots
 
-#### AuraRetail_Executive_Dashboard_Executive Dashboard.png
+#### Executive Dashboard
 
-![AuraRetail Executive Dashboard](screenshots/AuraRetail_Executive_Dashboard_Executive Dashboard.png)
+![AuraRetail Executive Dashboard](screenshots/executive-dashboard.png)
 
 #### Exploratory Analysis
 
-![AuraRetail Exploratory Analysis](screenshots/AuraRetail_Executive_Dashboard_ Exploratory Analysis.png)
+![AuraRetail Exploratory Analysis](screenshots/exploratory-analysis.png)
 
 ## Business Recommendations
 
