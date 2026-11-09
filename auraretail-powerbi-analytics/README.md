@@ -169,13 +169,13 @@ The dashboard is designed to help management monitor business performance and ex
 
 ### AuraRetail_Executive_Dashboard_ Exploratory Analysis.png
 
-#### AuraRetail_Executive_Dashboard_ Executive Dashboard.png
+#### AuraRetail_Executive_Dashboard_Executive Dashboard.png
 
-![AuraRetail Executive Dashboard](screenshots/executive-dashboard.png)
+![AuraRetail Executive Dashboard](screenshots/AuraRetail_Executive_Dashboard_Executive Dashboard.png)
 
 #### Exploratory Analysis
 
-![AuraRetail Exploratory Analysis](screenshots/exploratory-analysis.png)
+![AuraRetail Exploratory Analysis](screenshots/AuraRetail_Executive_Dashboard_ Exploratory Analysis.png)
 
 ## Business Recommendations
 
