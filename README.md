@@ -1,7 +1,7 @@
 #  Data Science Practice
 
 A personal sandbox repository where I practice and experiment with 
-Machine Learning, Data Mining, and Python data science techniques 
+Data science, SQL and PowerBI techniques
 as I progress through my MSc in Data Science and Business Analytics 
 at Bologna Business School.
 
